@@ -7,6 +7,7 @@
 The project consists of a single index.html file that serves as the main webpage.
 ```
  Clone the repository (if using locally) using bash commands:
+https://github.com/vishu8844/vishu-aws-S3-Bucket-Project.git
 ```
 Upload index.html to your S3 Bucket
 ```
